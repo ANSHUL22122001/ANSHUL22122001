@@ -1,7 +1,7 @@
 
 <h1 style="color: #f03c15"> Hi there 👋</h1>
 <a href="https://github.com/anshul22122001/github-readme-stats"><img align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=anshul22122001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>I am Anshul Sharma. I am a Third Year B.E. CSE Student at Chandigarh University. I am a competitive programmer and currently doing Web Development. : )
+<br>I am Anshul Sharma. I am a Third Year B.E. CSE Student at Chandigarh University. I am a competitive programmer and currently doing Web Development.
 <br/><br/><br/><br/><br/><br/>
 
 
